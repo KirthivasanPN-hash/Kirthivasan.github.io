@@ -1,6 +1,6 @@
 # Portfolio
 # Curious Learner
-Exploration in the field of Data science began when I had access to computers since childhood. This opportunity evoked my curiosity to comprehend how computers can perceive, interpret data and provide output. The mechanism behind these languages gave me a vivid idea about how it aids humanity with real-time problems. Keeping up the same hunger and quest for knowledge, I opted for Computer science during undergrad. This wise decision helped me comprehend, design, develop and deploy applications that make society grow along with technology as their best companion. In today's technological advancements, high-performance computing and data visualization have always fascinated me, and I continue to be an active learner and seeker throughout my journey. This expedition is a substantial reason to pursue for a Master's degree in Data Science.
+My interest in Data Science began in childhood when access to computers sparked my curiosity about how they process and interpret data. This curiosity led me to pursue Computer Science in undergrad, where I learned to design and develop applications that address real-world challenges. Fascinated by high-performance computing and data analysis, I remain an active learner, which drives my decision to pursue a Master’s degree in Data Science to deepen my expertise and contribute to technological advancements.
 
 # Technical Skills
 
@@ -23,7 +23,7 @@ Exploration in the field of Data science began when I had access to computers si
 
 # Education
 - M.S., Data Science | Indiana University Bloomington (August 2023 - May 2025), GPA: 3.5/4											       		
-- B.TECH., Computer Science | St. Joseph's College of Engineering (August 2019 - May 2023), GPA: 8.68/10
+- B.E., Computer Science | St. Joseph's College of Engineering (August 2019 - May 2023), GPA: 8.68/10
 
 ## Relevant Coursework
 Statistics, Applied Algorithms, Database Concepts, Machine Learning in Econ, Data Mining, Big Data, Natural Language Processing, Data Visualization, Cloud Computing, Operating Systems, Distributed Systems, Computer Architecture, Software Engineering
