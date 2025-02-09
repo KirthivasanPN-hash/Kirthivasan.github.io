@@ -10,7 +10,7 @@ Exploration in the field of Data science began when I had access to computers si
 
 - **ML Algorithms**: Linear Regression, Random Forest, Decision Tree, k-means clustering, SVM, Naive Bayes, Neural Networks
 
-_ **Data Mining Techniques**: TF-IDF, Word2Vec, feature extraction, clustering algorithms
+- **Data Mining Techniques**: TF-IDF, Word2Vec, feature extraction, clustering algorithms
 
 - **Frameworks**: React, Node.js, Express, Flask, Fast API
 
