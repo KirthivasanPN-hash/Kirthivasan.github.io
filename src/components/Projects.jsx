@@ -155,7 +155,7 @@ const Projects = () => {
         {filteredProjects.map((project, index) => (
           <div
             key={index}
-            className="bg-white/50 rounded-lg overflow-hidden transform transition-all duration-300 hover:scale-105 hover:shadow-xl relative group"
+            className="bg-white/50 rounded-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl relative group overflow-visible"
           >
             <div className="h-48 bg-gray-700 flex items-center justify-center overflow-hidden">
               <img 
